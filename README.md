@@ -1,2 +1,2 @@
-# curso-python-guanabara
+# curso-python
 Repositório com os desafios, códigos e testes desenvolvidos durante as aulas de Python.
